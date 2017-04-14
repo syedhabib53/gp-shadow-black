@@ -1,0 +1,15 @@
+@import url("/usr/share/gnome-shell/theme/gnome-shell.css");
+
+stage {
+	font-family: Ubuntu;
+	font-size: 9pt;
+}
+
+#panel {
+	box-shadow: 0px 1px 5px 5px rgba(0,0,0,0.5);
+    border: 0px solid rgba(90,105,111,0.5);
+}
+
+.panel-button {
+	color: #fff !important;
+}
